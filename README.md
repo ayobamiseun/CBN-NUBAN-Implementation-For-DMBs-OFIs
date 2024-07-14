@@ -1,7 +1,7 @@
 # NIGERIA UNIFORM BANK ACCOUNT NUMBER 
 
+* [Doc From Central Bank Of Nigeria](https://www.cbn.gov.ng/out/2018/psmd/exposure%20circular%20for%20nuban.pdf)
 
-  
 How to use this template:
 
 Clone the repository:
